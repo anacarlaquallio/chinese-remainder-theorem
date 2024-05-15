@@ -64,5 +64,4 @@ $x = \left[b^{-1}\pmod{d}\cdot b \cdot (c - a) + a \right] \pm b \cdot d \cdot j
 
 * **Ana Carla Quallio Rosa**
 * **Fernando Cézar Gonçalves Manso**
-* **Juliano Henrique Foleiss**
 * **Wellington José Corrêa**
